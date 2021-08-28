@@ -6,6 +6,7 @@ edition = "2018"
 description = "A cli tool to apply patches to YAML files"
 repository = "https://github.com/Canop/yaml-patcher"
 license = "MIT"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0"
