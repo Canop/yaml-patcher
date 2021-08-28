@@ -1,0 +1,13 @@
+[package]
+name = "yaml-patcher"
+version = "0.1.0"
+authors = ["Denys Séguret <denys.seguret@gmail.com>"]
+edition = "2018"
+description = "A cli tool to apply patches to YAML files"
+repository = "https://github.com/Canop/yaml-patcher"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
+argh = "0.1"
+yaml-rust = "0.4"
